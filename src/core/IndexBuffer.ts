@@ -1,0 +1,5 @@
+class IndexBuffer {
+
+}
+
+export { IndexBuffer }
